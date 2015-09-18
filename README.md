@@ -1,2 +1,3 @@
 # Algorithms
-Algorithms 
+
+For ACM-ICPC.
